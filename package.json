@@ -115,7 +115,7 @@
     "eslint-plugin-jest": "22.15.2",
     "eslint-plugin-prettier": "3.1.0",
     "eslint-plugin-react": "7.14.3",
-    "inquirer": "6.5.2",
+    "inquirer": "7.0.0",
     "instantsearch-e2e-tests": "algolia/instantsearch-e2e-tests#v1.2.2",
     "jest": "24.9.0",
     "jest-diff": "24.9.0",
